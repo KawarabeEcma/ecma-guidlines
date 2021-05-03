@@ -12,6 +12,7 @@ A repository for license list of material that using on Ecma Kawarabe's activiti
 
 ## Licenses
 
-- [画像系（images）](images.md)
+- [画像系（Images）](images.md)
 - [音系（BGM, SE）](sounds.md)
 - [フォント（Fonts）](fonts.md)
+- [動画（Videos）](videos.md)
