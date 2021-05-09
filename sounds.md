@@ -11,6 +11,10 @@
 
 - [PIXTA利用規約（Terms）](https://pixta.jp/terms)
 
+### [魔王魂](https://maou.audio/)
+
+- [音楽利用のルール（Rule）](https://maou.audio/rule/)
+
 ## SE
 
 ### [OtoLogic](https://otologic.jp/)
