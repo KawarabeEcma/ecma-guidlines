@@ -7,4 +7,3 @@
 ## YouTube Channel
 
 - [エダマメ豆富](https://www.youtube.com/c/edamametofu)
-- [厚揚公太](https://www.youtube.com/channel/UCtHrl9sBZVw0HSbBJJkqZwg)
