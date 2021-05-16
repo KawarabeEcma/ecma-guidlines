@@ -21,6 +21,10 @@
 
 - [利用規約（LISENCE）](https://otologic.jp/free/license.html)
 
+### [Poket soundポケットサウンド](https://pocket-se.info/)
+
+- [利用規約（Rules）](https://pocket-se.info/rules/)
+
 ### [フリー効果音素材 くらげ工匠](http://www.kurage-kosho.info/)
 
 - [ご利用ガイド（GUIDE）](http://www.kurage-kosho.info/guide.html)
