@@ -14,6 +14,12 @@
 
 - [ご利用規約（POLICY）](https://www.sozai-library.com/policy)
 
+### [Twemoji](https://twemoji.twitter.com/)
+
+### [イラストAC](https://www.ac-illust.com)
+
+- [利用規約（Terms）](https://www.ac-illust.com/main/terms.php)
+
 ## Photos
 
 ### [写真AC photo AC](https://www.photo-ac.com/)
