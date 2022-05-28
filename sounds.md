@@ -17,6 +17,9 @@
 
 ### [誰も知らないBGM](https://sabakan1127.wixsite.com/home)
 
+### [zukisuzuki BGM](https://www.youtube.com/c/zukisuzukiBGM)
+
+- [著作権フリーBGM【クセになる36曲2時間】ライブ配信 作業用 勉強用BGM](https://www.youtube.com/watch?v=K3oNkdMu_ew)
 
 ## SE
 
