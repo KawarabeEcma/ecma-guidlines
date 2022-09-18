@@ -1,4 +1,4 @@
-English will follows.
+🥒 English will follows.
 
 # 二次創作ガイドライン
 
