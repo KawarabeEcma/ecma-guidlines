@@ -50,7 +50,7 @@ YouTube におけるパートナープログラムなどによる収益化は問
 
 -----
 
-# Guidelines for Secondary Works
+# Guidelines for Derivative creation (fan fiction)
 
 :warning: Please [let me know](https://github.com/KawarabeEcma/ecma-guidlines/issues) if there are incorrect in these English sentences.
 
