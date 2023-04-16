@@ -26,7 +26,7 @@ Twitter にて作品を投稿いただける際は、次のハッシュタグを
 
 なお、ビジュアルについてはこちらの Twitter モーメントを参考にしていただけます。
 
-<https://twitter.com/i/moment_maker/preview/1469505855792029702>
+<https://twitter.com/i/events/1469505855792029702>
 
 ## 切り抜き動画
 
