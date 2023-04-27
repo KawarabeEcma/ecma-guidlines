@@ -58,7 +58,7 @@ YouTube におけるパートナープログラムなどによる収益化は問
 
 # Guidelines for Secondary Creation (fan fiction)
 
-:warning: Please [let me know](https://github.com/KawarabeEcma/ecma-guidlines/issues) if there are incorrect in these English sentences.
+:warning: Please [let me know](https://github.com/KawarabeEcma/ecma-guidlines/issues) if there are incorrect in these English sentences.  
 :warning: In the event of inconsistencies or other problems, the Japanese version of the guidelines will take precedence.
 
 heppokofrontend (hereinafter referred to as "the Circle") welcomes fan works of Kawarabe Ecma.
