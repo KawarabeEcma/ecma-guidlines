@@ -2,6 +2,8 @@
 
 # 二次創作ガイドライン
 
+⚠️ 本ガイドラインは予告なしに変更される可能性があります。
+
 heppokofrontend（以下、「当サークル」とします）は、河童エクマの二次創作を歓迎します。  
 ただし、次のコンテンツを公開することはご遠慮ください。
 
@@ -9,10 +11,14 @@ heppokofrontend（以下、「当サークル」とします）は、河童エ�
 - 河童エクマを利用して、特定の政治・宗教・信条などを主張・支援、または貶めることを目的としたもの
 - 特定の個人・団体を貶めることを目時としたもの
 - 第三者の権利を侵害しているもの
-- 反社会的な表現を含むもの
+- 差別的、反社会的、公序良俗に反する表現を含むもの
 - 二次創作ガイドラインに反するもの
 
-その他、当サークルが不適切と判断した作品については、削除申請をさせていただく可能性がありますことを予めご了承ください。
+その他、当サークルが不適切と判断した作品・投稿については、削除申請をさせていただく可能性がありますことを予めご了承ください。
+
+当サークルは、当サークルのコンテンツの著作権及び著作隣接権を放棄していません。
+当サークルのコンテンツの二次創作・二次利用等によって第三者との間で紛争が生じた場合について、当サークルは一切の責任を負いません。
+また、本ガイドラインは、第三者の権利を侵害しないことも保証しません。
 
 ## ファンアート
 
@@ -30,7 +36,7 @@ Twitter にて作品を投稿いただける際は、次のハッシュタグを
 
 ## 切り抜き動画
 
-YouTube チャンネル「[Ecma Ch. 河童エクマ](https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q)」にて公開されている動画を元に、切り抜き動画の制作・投稿をしていただける場合について記載します。  
+YouTube チャンネル「[Ecma Ch. 河童エクマ](https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q)」にて公開されている動画・配信アーカイブを元に、切り抜き動画の制作・投稿をしていただける場合について記載します。  
 それ以外で河童エクマの切り抜き動画を制作・投稿していただける場合は、別途関係者様のガイドライン等を遵守してください。
 
 ### お願い
@@ -53,51 +59,55 @@ YouTube におけるパートナープログラムなどによる収益化は問
 # Guidelines for Secondary Creation (fan fiction)
 
 :warning: Please [let me know](https://github.com/KawarabeEcma/ecma-guidlines/issues) if there are incorrect in these English sentences.
+:warning: In the event of inconsistencies or other problems, the Japanese version of the guidelines will take precedence.
 
-Our Circle, heppokofrontend welcomes derivative works of Ecma Kawarabe.  
-However, please refrain from publishing the following content
+heppokofrontend (hereinafter referred to as "the Circle") welcomes fan works of Kawarabe Ecma.
+However, please refrain from publishing the following content:
 
-- Contents intended to harm the image of Ecma Kawarabe
-- Contents that aim to advocate, support, or discredit specific politics, religions, beliefs, etc., by using Ecma Kawarabe.
-- Any content that aims to degrade a specific individual or group.
-- Those that infringe on the rights of third parties.
-- Works that include antisocial expressions
-- Those that violate this guidelines.
+- Material that harms the image of Kawarabe Ecma
+- Material that uses Kawarabe Ecma to advocate, support, or denigrate specific politics, religions, beliefs, etc.
+- Material that aims to denigrate specific individuals or groups
+- Material that infringes on third-party rights
+- Material that contains discriminatory, anti-social, or morally objectionable expressions
+- Material that violates the Fan Art Guidelines
 
-Please note that we may request the deletion of any other works that we deem inappropriate.
+Please note that we reserve the right to remove works and posts that we consider inappropriate.
+
+The Circle does not waive its copyright and neighboring rights for its content, including fan works and secondary use. The Circle will not be held responsible for any disputes that arise between third parties due to fan works or secondary use of its content. This guideline does not guarantee that it will not infringe on the rights of third parties.
 
 ## Fan Art
 
-We may include your artwork in videos, thumbnails, etc. on social networking sites such as YouTube and Twitter.
+We may include works that you have drawn in videos or thumbnails on SNS such as YouTube and Twitter.
 
-If you post your artwork on Twitter, we would appreciate it if you could include the following hashtag.
+When posting your work on Twitter, please include the following hashtag:
 
 ````
 #河童絵巻
 ````
 
-If you need the document of Ecma's visuals, please refer to this Twitter moment.
+For visuals, please refer to this Twitter moment:
 
-<https://twitter.com/i/moment_maker/preview/1469505855792029702>
+<https://twitter.com/i/events/1469505855792029702>
 
-## Ecma's Clipping video 
+## Clipped Videos
 
-If you would like to create and submit a clipped video based on a video published on the YouTube channel "[Ecma Ch. 河童エクマ](https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q)", please refer to this page. The following is a list of cases in which you can make and submit clipped videos based on videos published on this channel.  
+This section applies to the creating and posting of clipped videos based on videos and streaming archives published on the YouTube channel "Ecma Ch. 河童エクマ".
 
-NOTE: If you would like to use videos that includes Ecma Kawarabe from other channels, please follow the guidelines of the other parties involved.
+NOTE: For making and posting clipped videos of Kawarabe Ecma outside of our YouTube channel, please follow the guidelines of the relevant parties.
 
 ### Requests
 
-Please include the following information in the video summary section
+Please include the following information in the video description:
 
-- The title of the original archived video
-- URL of the original archived video
+- Title of the video or archive from which the clipped video was made
+- URL of the video or archive from which the clipped video was made
 
-### About the video that has been made private
+### Unavailable Videos
 
-Please do not publish clipped videos where the original video cannot be viewed.
+Please refrain from publishing clipped videos if the original video is no longer available.
 
 ## Monetization
 
-Monetization through YouTube partner programs is not a problem, but please do not publish the clipped video in a state where it cannot be viewed without payment.
+Monetization through YouTube's Partner Program or other means is acceptable. However, please do not publish videos that can only be viewed by paying a fee.
+
 
