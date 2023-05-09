@@ -30,9 +30,9 @@ Twitter にて作品を投稿いただける際は、次のハッシュタグを
 #河童絵巻
 ```
 
-なお、ビジュアルについてはこちらの Twitter モーメントを参考にしていただけます。
+なお、ビジュアルについてはこちらのページを参考にしていただけます。
 
-<https://twitter.com/i/events/1469505855792029702>
+<https://heppokofrontend.dev/kawarabeecma/profile>
 
 ## 切り抜き動画
 
@@ -85,9 +85,9 @@ When posting your work on Twitter, please include the following hashtag:
 #河童絵巻
 ````
 
-For visuals, please refer to this Twitter moment:
+For visuals, please refer to this page:
 
-<https://twitter.com/i/events/1469505855792029702>
+<https://heppokofrontend.dev/en/kawarabeecma/profile>
 
 ## Clipped Videos
 
