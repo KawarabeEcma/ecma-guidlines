@@ -32,7 +32,7 @@ Twitter にて作品を投稿いただける際は、次のハッシュタグを
 
 なお、ビジュアルについてはこちらのページを参考にしていただけます。
 
-<https://heppokofrontend.dev/kawarabeecma/profile>
+[https://heppokofrontend.dev/kawarabeecma/profile](https://heppokofrontend.dev/kawarabeecma/profile?utm_source=github&utm_medium=social&utm_campaign=article)
 
 ## 切り抜き動画
 
@@ -87,7 +87,7 @@ When posting your work on Twitter, please include the following hashtag:
 
 For visuals, please refer to this page:
 
-<https://heppokofrontend.dev/en/kawarabeecma/profile>
+[https://heppokofrontend.dev/kawarabeecma/profile](https://heppokofrontend.dev/kawarabeecma/profile?utm_source=github&utm_medium=social&utm_campaign=article)
 
 ## Clipped Videos
 
