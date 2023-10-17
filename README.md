@@ -66,7 +66,7 @@ YouTube におけるパートナープログラムなどによる収益化は問
 heppokofrontend (hereinafter referred to as "the Circle") welcomes fan works of Kawarabe Ecma.
 However, please refrain from publishing the following content:
 
-- Material that harms the image of Kawarabe Ecma
+- Material that harms the image of Kawarabe Ecma, and something that can't show Ecma Kawarabe.
 - Material that uses Kawarabe Ecma to advocate, support, or denigrate specific politics, religions, beliefs, etc.
 - Material that aims to denigrate specific individuals or groups
 - Material that infringes on third-party rights
@@ -86,6 +86,8 @@ When posting your work on Twitter, please include the following hashtag:
 ````
 #河童絵巻
 ````
+
+There is no problem if you ask a third party to create fan art for Ecma Kawarabe, or if you or the creators publish or post the work on the Web or in print media, as long as you comply with these guidelines.
 
 For visuals, please refer to this page:
 
